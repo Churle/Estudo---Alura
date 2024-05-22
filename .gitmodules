@@ -1,0 +1,15 @@
+[submodule "JS1"]
+    path = JS1
+    url = https://github.com/user/repository1.git
+
+[submodule "JS2"]
+    path = JS2
+    url = https://github.com/user/repository2.git
+
+[submodule "JS3"]
+    path = JS3
+    url = https://github.com/user/repository3.git
+
+[submodule "Numero-secreto"]
+    path = Numero-secreto
+    url = https://github.com/user/repository-numero-secreto.git
